@@ -432,7 +432,7 @@ a:active {
 .nav li{
 	list-style: none;
 }
-.nav.nav-item{
+.nav .nav-item{
 	font-family: var(--nav-item-font-family);
 	font-weight:var(--font-weight-bold);
 	font-size: var(--nav-item-font-size);
@@ -440,11 +440,11 @@ a:active {
 	display: var(--nav-item-display);
 	margin: var(--nav-item-margin);
 }
-.nav.nav-link{
+.nav .nav-link{
 	display: block;
 	padding: calc(var(--font-size) / 2) var(--font-size);	
 }
-.nav.nav-link:hover{
+.nav .nav-link:hover{
 	background-color: nav-item-link-hover;
 }
 :root
