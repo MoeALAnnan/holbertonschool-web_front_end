@@ -534,7 +534,7 @@ ul.row {
 .card-testimonial .card-quote cite{
 	display: block;
 	padding-top: 1rem;
-	color: var(--primary-color);
+	color: var(--color-primary);
 
 }
 :root
