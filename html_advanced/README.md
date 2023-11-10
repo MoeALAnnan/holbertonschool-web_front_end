@@ -1,1 +1,1 @@
-READ ME
+This is a READ  file
